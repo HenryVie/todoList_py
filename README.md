@@ -1,6 +1,10 @@
 # todoList_py
 A terminal-interaction simple to-do list built by Python
 
+# NOTE
+
+This project was built as part of CS50’s Python course to practice core programming concepts such as control flow, functions, and data structures.
+
 # 📝 To-Do List CLI Application (Python)
 
 A command-line based task management application developed in Python as a final project for CS50’s Introduction to Programming with Python.

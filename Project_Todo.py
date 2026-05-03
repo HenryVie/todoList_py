@@ -1,3 +1,7 @@
+# To-do List CLI
+# Author: Nguyễn Đình Nam
+# Description: A command-line to-do list program.
+
 def main():
     while True:
         MainMenu_choice = main_menu()
